@@ -8,8 +8,10 @@
 ### Demo
 * First You need python2.7 installed
 
-* then run this file to stat the game
-
+* then run this file to start the game
+```sh
+$ python dom.py
+```
 ```sh
 Enter number of players: 2
 there is now two players playing 
@@ -34,5 +36,6 @@ Here is your cards please
  - Write Tests
  - More than two users can play the game (now support two users only).
  - Check how won the game
- - Check if user has a valid tiles but he select another one.
+ - Check if user has a valid play but he select
+ 
 [Dominoes]:<https://en.wikipedia.org/wiki/Dominoes>
